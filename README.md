@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mahfuzoxyfw@gmail.com**
 
-- ⚡ Fun fact **There are around 700 separate programming languages and I only know few :)**
+- ⚡ Fun fact **There are around 700 separate   <br> programming languages and I only know few :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
