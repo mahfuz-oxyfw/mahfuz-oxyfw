@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)](https://discord.gg/VTnaXfsa67)
+[![MasterHead](https://github.com/Dark756/Dark756/blob/main/benner.jpg?raw=true)](https://discord.gg/VTnaXfsa67)
 <h1 align="center">Hey 👋 Welcome To My Github Profile, I'm Mahfuz</h1>
 <h2 align="center">A FiveM Server Developer/Website Developer</h2>
 <h3 align="center">I'm A CSE Student From Ireland</h3>
