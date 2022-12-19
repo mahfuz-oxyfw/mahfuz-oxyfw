@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/VTnaXfsa67)
 
-- 👨‍💻 All of my public projects are available [here](https://github.com/mahfuz-oxyfw)
+- 👨‍💻 All of my public projects are available [here](https://github.com/mahfuz-oxyfw?tab=repositories)
 
 - 💬 Ask me about **Lua, HTML, CSS, Python**
 
