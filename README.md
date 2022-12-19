@@ -38,5 +38,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz-oxyfw&show_icons=true&locale=en&layout=compact" alt="mahfuz-oxyfw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-oxyfw&" alt="mahfuz-oxyfw" /></p>
-<h1 align="center">Heyyy You again 😊 Good to see that you made it till here, well T wanted to thank you, for visiting/reading my Github Profile</h1>
+<h1 align="center">Heyyy You again 😊 Good to see that you made it till here, well I wanted to thank you, for visiting/reading my Github Profile</h1>
 <h2 align="center">Bye now 👋</h2>
