@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DLRP BD](https://discord.gg/B5cUJpJdCJ) and [DNRP](https://discord.gg/EvXGVYEKAZ)
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 **I’m currently learning** *Java Script* **And** *Lua*
 
 - 👯 I’m looking to collaborate on [Discord OXYFW](https://discord.gg/VTnaXfsa67)
 
