@@ -9,9 +9,9 @@
 
 - 🌱 **I’m currently learning** *Java Script* **And** *Lua*
 
-- 👯 I’m looking to collaborate on [Discord OXYFW](https://discord.gg/VTnaXfsa67)
+- 👯 I’m looking to collaborate on [Discord OXYFW](https://discord.gg/gqjJ3mkCNV)
 
-- 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/VTnaXfsa67)
+- 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/gqjJ3mkCNV)
 
 - 👨‍💻 All of my public projects are available [here](https://github.com/mahfuz-oxyfw?tab=repositories)
 
