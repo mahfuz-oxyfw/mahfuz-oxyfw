@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/Dark756/Dark756/blob/main/benner.jpg?raw=true)](https://discord.gg/gqjJ3mkCNV)
+[![MasterHead](https://media.discordapp.net/attachments/823859983698493461/1062853623161311332/github-header-image.png)](https://discord.gg/gqjJ3mkCNV)
+
 <h1 align="center">Hey 👋 I'm Mahfuz, Welcome To My Github Profile</h1>
 <h2 align="center">A FiveM Server Developer/Website Developer</h2>
 <h3 align="center">I'm A CSE Student From Ireland</h3>
