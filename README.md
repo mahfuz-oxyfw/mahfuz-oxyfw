@@ -38,4 +38,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz-oxyfw&show_icons=true&locale=en&layout=compact" alt="mahfuz-oxyfw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-oxyfw&" alt="mahfuz-oxyfw" /></p>
