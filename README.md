@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/823859983698493461/1062853623161311332/github-header-image.png)](https://discord.gg/gqjJ3mkCNV)
+[![MasterHead](https://media.discordapp.net/attachments/883098043912691752/1240758769621926008/IMG_4372.JPEG)](https://discord.gg/gqjJ3mkCNV)
 
 <h1 align="center">Hey 👋, Welcome To My Github Profile</h1>
 <h2 align="center">I'm a FiveM Server Developer/Website Developer</h2>
