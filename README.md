@@ -1,54 +1,43 @@
-# Hi there, I'm Mahfuz 👋
+# Hi, I'm Mahfuz 👋  
 
-I am a passionate software developer with a focus on collaboration and continuous improvement. Here are some insights based on my GitHub activity:
+I am a dedicated software developer who values collaboration, clean code, and continuous growth. My work reflects a focused approach where quality comes first.  
 
-🔭 **Overall Activity, Skill Set, and Interests:**
+🔭 **GitHub Highlights**  
+- 7 commits, 3 issues resolved  
+- Built 2 repositories  
+- Contributed to 3 projects, including *pixelprecisiondev/pp-adjustanim*  
+- Most starred repo: [mahfuz-oxyfw](https://github.com/mahfuz-oxyfw) (2 stars)  
+- 5 followers and growing presence  
 
-- Total Commits: 7
-- Total Issues: 3
-- Skill Set: Skilled in Lua
-- Interests: Software Development
+🌱 **How I Work**  
+- Write code with purpose, not volume  
+- Commit to long-term improvement and problem-solving  
 
-🌱 **Coding Habits:**
+👯 **Collaboration & Contributions**  
+- Open to working on community-driven and team-based projects  
+- Experience in both creating and contributing to repositories  
 
-- Focused approach to coding
-- Quality over quantity
+## Skills & Technologies  
+- **Languages & Frameworks:** Lua (FiveM Framework)  
+- **Tools & DevOps:** Git, Docker  
+- **Databases:** MySQL  
+- **Current Focus:** Advancing Lua expertise and contributing to meaningful projects  
 
-👯 **Project Contributions:**
+💡 **Fun Fact:** Coding is not just a skill for me, it’s a passion that drives me every day.  
 
-- Created 2 repositories
-- Contributed to 3 projects like "pixelprecisiondev/pp-adjustanim"
+## Featured Projects  
+- [mahfuz-oxyfw](https://github.com/mahfuz-oxyfw) - 2 stars  
+- [qb-burgershot](https://github.com/mhyfeatures/qb-burgershot)  
 
-📊 **GitHub Presence:**
+## Connect with Me  
+- LinkedIn: [Mahfuz](https://linkedin.com/)  
+- Email: [mahfuzoxyfw@gmail.com](mailto:mahfuzoxyfw@gmail.com)  
 
-- Modest presence with 5 followers
-- Most starred repository: "mahfuz-oxyfw" (2 stars)
-
-## Skills & Technologies
-
-- Lua (FiveM Framework)
-- Git, Docker
-- MySQL
-
-**Focus:** Improving Lua skills and contributing to more projects
-
-**Fun fact:** Coding is my passion
-
-## Projects Showcase
-
-- [mahfuz-oxyfw](https://github.com/mahfuz-oxyfw) - 2 stars
-- [qb-burgershot](https://github.com/mhyfeatures/qb-burgershot)
-
-## Connect with Me
-
-- LinkedIn: [Mahfuz](https://linkedin.com/in/mahfuz)
-- Email: [mahfuz@example.com](mailto:mahfuz@example.com)
-
-Let’s connect and collaborate on projects together!
+Let’s connect, share knowledge, and build something impactful together.  
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mahfuz-oxyfw)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-oxyfw)
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahfuz-oxyfw)](https://github.com/mahfuz-oxyfw)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mahfuz-oxyfw)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mahfuz-oxyfw)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-oxyfw)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahfuz-oxyfw)](https://github.com/mahfuz-oxyfw)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahfuz-oxyfw)](https://git.io/streak-stats)  
