@@ -1,40 +1,54 @@
-![MasterHead](https://media.discordapp.net/attachments/1349786417315708972/1353141061089759364/IMG_2258_1.JPEG?ex=67e09251&is=67df40d1&hm=84b167cef4d27a54e4277c99e02da0047ca781055129f502fcef23591d021f9c&=&format=webp&width=1133&height=968)
+# Hi there, I'm Mahfuz 👋
 
-<h1 align="center">Hey 👋, Welcome To My Github Profile</h1>
-<h2 align="center">I'm a FiveM Server Developer/Website Developer</h2>
-<h3 align="center">I'm A CSE Student From Ireland</h3>
+I am a passionate software developer with a focus on collaboration and continuous improvement. Here are some insights based on my GitHub activity:
 
+🔭 **Overall Activity, Skill Set, and Interests:**
 
-- 🔭 I’m currently working on [DLRP BD](https://discord.gg/B5cUJpJdCJ), [VLTRP](https://discord.gg/EvXGVYEKAZ) and [ABRP](https://discord.gg/absrp)
+- Total Commits: 7
+- Total Issues: 3
+- Skill Set: Skilled in Lua
+- Interests: Software Development
 
-- 🌱 **I’m currently learning** *Java Script* **And** *Lua*
+🌱 **Coding Habits:**
 
-- 👯 I’m looking to collaborate on [Discord OXYFW](https://discord.gg/gqjJ3mkCNV)
+- Focused approach to coding
+- Quality over quantity
 
-- 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/gqjJ3mkCNV)
+👯 **Project Contributions:**
 
-- 👨‍💻 All of my public projects are available [here](https://github.com/mahfuz-oxyfw?tab=repositories)
+- Created 2 repositories
+- Contributed to 3 projects like "pixelprecisiondev/pp-adjustanim"
 
-- 💬 Ask me about **Lua, HTML, CSS, Python**
+📊 **GitHub Presence:**
 
-- 📫 How to reach me **mahfuzoxyfw@gmail.com**
+- Modest presence with 5 followers
+- Most starred repository: "mahfuz-oxyfw" (2 stars)
 
-- ⚡ Fun fact **There are around 700 separate   <br> programming languages and I only know few :)**
+## Skills & Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/100079059920556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuz" height="30" width="40" /></a>
-<a href="https://instagram.com/mahfuz._.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahfuz.19" height="30" width="40" /></a>
-<a href="https://discord.gg/gqjJ3mkCNV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="668123951582674995" height="30" width="40" /></a>
-</p>
+- Lua (FiveM Framework)
+- Git, Docker
+- MySQL
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://github.com/devicons/devicon/raw/master/icons/lua/lua-original.svg" title="LUA" alt="LUA" width="40" height="40" style="max-width: 100%;">
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Focus:** Improving Lua skills and contributing to more projects
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mahfuzoxyfw"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahfuzoxyfw" /></a></p><br><br><br><br>
+**Fun fact:** Coding is my passion
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz-oxyfw&show_icons=true&locale=en&layout=compact" alt="mahfuz-oxyfw" /></p>
+## Projects Showcase
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz-oxyfw&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz-oxyfw" /> </p>
+- [mahfuz-oxyfw](https://github.com/mahfuz-oxyfw) - 2 stars
+- [qb-burgershot](https://github.com/mhyfeatures/qb-burgershot)
+
+## Connect with Me
+
+- LinkedIn: [Mahfuz](https://linkedin.com/in/mahfuz)
+- Email: [mahfuz@example.com](mailto:mahfuz@example.com)
+
+Let’s connect and collaborate on projects together!
+
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mahfuz-oxyfw)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-oxyfw)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahfuz-oxyfw)](https://github.com/mahfuz-oxyfw)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahfuz-oxyfw)](https://git.io/streak-stats)
